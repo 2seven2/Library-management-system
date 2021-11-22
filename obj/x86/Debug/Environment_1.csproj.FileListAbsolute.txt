@@ -1,0 +1,105 @@
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\bin\Debug\Environment_1.exe
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\bin\Debug\Environment_1.pdb
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.Form1.resources
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.Properties.Resources.resources
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.csproj.GenerateResource.Cache
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Sensor\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\教学\物联网技术应用与工程实践实训_2015-2016-1\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.pdb
+G:\物联网技术应用与工程实践实训_2016-2017-1\物联网系统集成实训\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.exe
+G:\物联网技术应用与工程实践实训_2016-2017-1\物联网系统集成实训\项目一 ZigBee环境监控\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\教学\物联网系统集成与维护_2017-2018-1\项目一 图书馆环境监控系统的设计与维护\4. 软件编程\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\教学\物联网系统集成与维护_2017-2018-1\项目一 图书馆环境监控系统的设计与维护\4. 软件编程\Zigbee环境监控实现（串口）\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\教学\物联网系统集成与维护_2017-2018-1\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\教学\物联网系统集成与维护_2017-2018-1\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\bin\Debug\Environment_1.exe
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\bin\Debug\Environment_1.pdb
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.csprojAssemblyReference.cache
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.Form1.resources
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.Properties.Resources.resources
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.csproj.GenerateResource.cache
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.csproj.CoreCompileInputs.cache
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\QSZ\2020-2021-1《物联网系统集成与维护》李春玲-李靖-靳智-王玲-刘宝锺-秦宸哲 V3.0\项目一 图书馆环境监控系统的设计与维护\4. 软件编程资料\1.1 Zigbee环境监控实现（串口）\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.exe
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.pdb
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\bin\Debug\Environment_1.exe
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\bin\Debug\Environment_1.pdb
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.csprojResolveAssemblyReference.cache
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.Form1.resources
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.Properties.Resources.resources
+E:\串口编程示例1-采集数据\串口编程示例1-采集数据\Environment_1\obj\x86\Debug\Environment_1.csproj.GenerateResource.Cache
+D:\烦人\Environment_1\bin\Debug\Environment_1.exe
+D:\烦人\Environment_1\bin\Debug\Environment_1.pdb
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.csproj.AssemblyReference.cache
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.Form1.resources
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.Properties.Resources.resources
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.csproj.GenerateResource.cache
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.csproj.CoreCompileInputs.cache
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.exe
+D:\烦人\Environment_1\obj\x86\Debug\Environment_1.pdb
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.exe
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.pdb
+C:\Users\Newland\Desktop\Environment_1\bin\Debug\Environment_1.exe
+C:\Users\Newland\Desktop\Environment_1\bin\Debug\Environment_1.pdb
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.csprojResolveAssemblyReference.cache
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.Form1.resources
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.Properties.Resources.resources
+C:\Users\Newland\Desktop\Environment_1\obj\x86\Debug\Environment_1.csproj.GenerateResource.Cache
+D:\烦人\Environment_2\bin\Debug\Environment_1.exe
+D:\烦人\Environment_2\bin\Debug\Environment_1.pdb
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.csproj.AssemblyReference.cache
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form1.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Properties.Resources.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.csproj.GenerateResource.cache
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.csproj.CoreCompileInputs.cache
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.exe
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.pdb
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form3.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form4.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.csproj.CopyComplete
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form2.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form5.resources
+D:\烦人\Environment_2\bin\Debug\Environment_1.exe.config
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form6.resources
+D:\烦人\Environment_2\obj\x86\Debug\Environment_1.Form7.resources
+D:\cccc\Environment_2\bin\Debug\Environment_1.exe.config
+D:\cccc\Environment_2\bin\Debug\Environment_1.exe
+D:\cccc\Environment_2\bin\Debug\Environment_1.pdb
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.csproj.AssemblyReference.cache
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form1.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form2.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form3.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form4.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form5.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form6.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form7.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Properties.Resources.resources
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.csproj.GenerateResource.cache
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.csproj.CoreCompileInputs.cache
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.csproj.CopyComplete
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.exe
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.pdb
+D:\cccc\Environment_2\obj\x86\Debug\Environment_1.Form8.resources
+D:\Environment_2\bin\Debug\Environment_1.exe.config
+D:\Environment_2\bin\Debug\Environment_1.exe
+D:\Environment_2\bin\Debug\Environment_1.pdb
+D:\Environment_2\obj\x86\Debug\Environment_1.Form1.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form2.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form3.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form4.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form5.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form6.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form7.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Form8.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.Properties.Resources.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.csproj.GenerateResource.cache
+D:\Environment_2\obj\x86\Debug\Environment_1.csproj.CoreCompileInputs.cache
+D:\Environment_2\obj\x86\Debug\Environment_1.csproj.CopyComplete
+D:\Environment_2\obj\x86\Debug\Environment_1.exe
+D:\Environment_2\obj\x86\Debug\Environment_1.pdb
+D:\Environment_2\obj\x86\Debug\Environment_1.Form9.resources
+D:\Environment_2\obj\x86\Debug\Environment_1.csproj.AssemblyReference.cache

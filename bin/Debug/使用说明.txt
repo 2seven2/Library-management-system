@@ -1,0 +1,2 @@
+Camera.Net.dll为NET引用库，其他为C++支持库
+在使用此引用库前需安装vcredist_x86_2013.exe C++运行库
